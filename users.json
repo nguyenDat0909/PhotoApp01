@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nguyen Thanh Dat",
+      "email": "dat@example.com",
+      "description": "Sinh vien yeu thich lap trinh Android va cong nghe.",
+      "avatar_url": "https://i.pravatar.cc/500?img=1",
+      "hobby": "Photography,Travel,Music"
+    },
+    {
+      "id": 2,
+      "username": "Nguyen Minh Anh",
+      "email": "minhanh@example.com",
+      "description": "Yeu thich thiet ke giao dien va sang tao noi dung.",
+      "avatar_url": "https://i.pravatar.cc/500?img=2",
+      "hobby": "Design,Drawing,Reading"
+    },
+    {
+      "id": 3,
+      "username": "Tran Hoang Nam",
+      "email": "nam@example.com",
+      "description": "Quan tam den lap trinh mobile va phat trien ung dung.",
+      "avatar_url": "https://i.pravatar.cc/500?img=3",
+      "hobby": "Coding,Gaming,Football"
+    },
+    {
+      "id": 4,
+      "username": "Le Thu Ha",
+      "email": "ha@example.com",
+      "description": "Thich du lich va kham pha nhung dia diem moi.",
+      "avatar_url": "https://i.pravatar.cc/500?img=4",
+      "hobby": "Travel,Photography,Cooking"
+    },
+    {
+      "id": 5,
+      "username": "Pham Gia Bao",
+      "email": "bao@example.com",
+      "description": "Sinh vien cong nghe, yeu thich game va am nhac.",
+      "avatar_url": "https://i.pravatar.cc/500?img=5",
+      "hobby": "Gaming,Music,Movies"
+    },
+    {
+      "id": 6,
+      "username": "Vo Khanh Linh",
+      "email": "linh@example.com",
+      "description": "Yeu thich doc sach va tim hieu ve UX/UI.",
+      "avatar_url": "https://i.pravatar.cc/500?img=6",
+      "hobby": "Reading,Design,Art"
+    },
+    {
+      "id": 7,
+      "username": "Dang Quoc Huy",
+      "email": "huy@example.com",
+      "description": "Quan tam den AI, lap trinh va cac cong nghe moi.",
+      "avatar_url": "https://i.pravatar.cc/500?img=7",
+      "hobby": "AI,Coding,Technology"
+    },
+    {
+      "id": 8,
+      "username": "Bui Ngoc Mai",
+      "email": "mai@example.com",
+      "description": "Thich am nhac, chup anh va du lich.",
+      "avatar_url": "https://i.pravatar.cc/500?img=8",
+      "hobby": "Music,Photography,Travel"
+    },
+    {
+      "id": 9,
+      "username": "Hoang Tuan Kiet",
+      "email": "kiet@example.com",
+      "description": "Yeu thich the thao va phat trien ung dung Android.",
+      "avatar_url": "https://i.pravatar.cc/500?img=9",
+      "hobby": "Football,Coding,Fitness"
+    },
+    {
+      "id": 10,
+      "username": "Phan Thanh Vy",
+      "email": "vy@example.com",
+      "description": "Quan tam den thiet ke, nghe thuat va cong nghe.",
+      "avatar_url": "https://i.pravatar.cc/500?img=10",
+      "hobby": "Art,Design,Reading"
+    }
+  ]
+}
