@@ -5,15 +5,15 @@
       "username": "Nguyen Thanh Dat",
       "email": "dat@example.com",
       "description": "Sinh vien yeu thich lap trinh Android va cong nghe.",
-      "avatar_url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260611004637",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/Monkey-D-Luffy-Gear-4-Bound-Man.png",
       "hobby": "Photography,Travel,Music"
     },
     {
       "id": 2,
       "username": "Nguyen Minh Anh",
       "email": "minhanh@example.com",
-      "description": "https://www.digitalcitizen.life/wp-content/uploads/2026/01/tony-crew-one-piece-straw-hat-pirates-crew-members.png",
-      "avatar_url": "https://i.pravatar.cc/500?img=2",
+      "description": "Yeu thich thiet ke giao dien va sang tao noi dung.",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/Nami.png",
       "hobby": "Design,Drawing,Reading"
     },
     {
@@ -21,7 +21,7 @@
       "username": "Tran Hoang Nam",
       "email": "nam@example.com",
       "description": "Quan tam den lap trinh mobile va phat trien ung dung.",
-      "avatar_url": "https://www.digitalcitizen.life/wp-content/uploads/2026/01/roronoa-crew-one-piece-straw-hat-pirates-crew-members.png",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/Roronoa-Zoro.png",
       "hobby": "Coding,Gaming,Football"
     },
     {
@@ -37,7 +37,7 @@
       "username": "Pham Gia Bao",
       "email": "bao@example.com",
       "description": "Sinh vien cong nghe, yeu thich game va am nhac.",
-      "avatar_url": "https://www.digitalcitizen.life/wp-content/uploads/2026/01/usopp-crew-one-piece-straw-hat-pirates-crew-members.png",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/usopp.jpg",
       "hobby": "Gaming,Music,Movies"
     },
     {
@@ -45,7 +45,7 @@
       "username": "Vo Khanh Linh",
       "email": "linh@example.com",
       "description": "Yeu thich doc sach va tim hieu ve UX/UI.",
-      "avatar_url": "https://i.pravatar.cc/500?img=6",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/tony-tony-chopper.jpg",
       "hobby": "Reading,Design,Art"
     },
     {
@@ -53,7 +53,7 @@
       "username": "Dang Quoc Huy",
       "email": "huy@example.com",
       "description": "Quan tam den AI, lap trinh va cac cong nghe moi.",
-      "avatar_url": "https://www.digitalcitizen.life/wp-content/uploads/2026/01/franky-crew-one-piece-straw-hat-pirates-crew-members.png",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/Sanji.png",
       "hobby": "AI,Coding,Technology"
     },
     {
@@ -61,7 +61,7 @@
       "username": "Bui Ngoc Mai",
       "email": "mai@example.com",
       "description": "Thich am nhac, chup anh va du lich.",
-      "avatar_url": "https://i.pravatar.cc/500?img=8",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/Nico-Robin.jpg",
       "hobby": "Music,Photography,Travel"
     },
     {
@@ -69,7 +69,7 @@
       "username": "Hoang Tuan Kiet",
       "email": "kiet@example.com",
       "description": "Yeu thich the thao va phat trien ung dung Android.",
-      "avatar_url": "https://i.pravatar.cc/500?img=9",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/Franky.png",
       "hobby": "Football,Coding,Fitness"
     },
     {
@@ -77,7 +77,7 @@
       "username": "Phan Thanh Vy",
       "email": "vy@example.com",
       "description": "Quan tam den thiet ke, nghe thuat va cong nghe.",
-      "avatar_url": "https://i.pravatar.cc/500?img=10",
+      "avatar_url": "https://wibu.com.vn/wp-content/uploads/2024/04/Brook.png",
       "hobby": "Art,Design,Reading"
     }
   ]
